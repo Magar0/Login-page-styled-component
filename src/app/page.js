@@ -65,4 +65,10 @@ const Section = styled.section`
  }
 }
 
+@media (max-width: 500px) {
+ .box{
+  width: 300px;
+ }
+}
+
 `

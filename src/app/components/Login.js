@@ -99,8 +99,7 @@ const Wrapper = styled.section`
 
   h2{
     text-align: center;
-    font-size: 48px;
-    font-style: normal;
+    font-size: 3rem;
     font-weight: 700;
     line-height: 110%; 
     margin-bottom: 40px;
@@ -165,6 +164,15 @@ const Wrapper = styled.section`
   .register a{
     color: #F78719;
   }
+
+  @media (max-width: 500px) {
+  h2{
+    font-size: 2rem;
+  }
+  .checkbox{
+    font-size: 0.8rem;
+  }
+}
 `
 
 const FormGroup = styled.div`
@@ -192,4 +200,6 @@ position: relative;
     top: 33px;
     cursor: pointer;
   }
+
+
 `

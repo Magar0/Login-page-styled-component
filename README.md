@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1> Login Page in Next Js </h1>
 
-## Getting Started
+1. Libraries Used:
+ <p align="center">
+  <img src="https://github.com/Magar0/Login-page-styled-component/assets/35245789/92abdd95-8936-4c66-be8a-cd7bd7261e38" width="100" height="100">
+  <img src="https://github.com/Magar0/Login-page-styled-component/assets/35245789/b8ef3b38-85a4-478e-9d2e-63e43c69c472" width="100" height="100">
+</p>
+2. Responsive:
 
-First, run the development server:
+![responsive](https://github.com/Magar0/Login-page-styled-component/assets/35245789/5c76b1d1-185d-4d2e-8082-5fefa3aea113)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+4.Password show hide feature.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![show hide](https://github.com/Magar0/Login-page-styled-component/assets/35245789/cb52d548-5c43-45eb-a4c2-14c2282f6344)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+5.  Used Hooks to show error or success.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+         <p align="center">
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+       <img src="https://github.com/Magar0/Login-page-styled-component/assets/35245789/efab7c7d-3e82-4c5f-83b4-d287f8e42633" height="200">
+       <img src="https://github.com/Magar0/Login-page-styled-component/assets/35245789/966d23be-a89d-41d5-bedb-67aea7e65891" height="200">
+       <img src="https://github.com/Magar0/Login-page-styled-component/assets/35245789/3c4c47bb-227e-41db-8ab1-aa4969520acc" height="200">
+    </p>
